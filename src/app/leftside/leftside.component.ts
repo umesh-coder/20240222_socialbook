@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class LeftsideComponent {
 
+  shortcuts = [
+    { name: 'BJP', imageUrl: 'https://i.postimg.cc/hPVmKWD8/Bharatiya-Janata-Party-logo-svg.png' }
+  ];
+
 }
