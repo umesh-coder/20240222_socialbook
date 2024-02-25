@@ -13,7 +13,6 @@ export class RightsideComponent {
   ];
 
   members = [
-    { name: 'Narendra Modi', imageSrc: 'https://i.postimg.cc/dQpzWMsw/modi.png' },
     { name: 'Amit Shah', imageSrc: 'https://i.postimg.cc/Njf9Fnb9/amit.png' },
     { name: 'Yogi Adityanath', imageSrc: 'https://i.postimg.cc/5ycckjsc/yogi.jpg' },
     { name: 'Rahul Gandhi', imageSrc: 'https://i.postimg.cc/q7tV4WDx/rahul.jpg' }
