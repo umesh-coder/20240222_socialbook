@@ -1,6 +1,6 @@
 # Socialbook
 
-**It is a Clone Of facebook** that we Develop Frontend into **Angular**
+**It is a Clone Of facebook** that I Develop Frontend into **Angular**
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
 
