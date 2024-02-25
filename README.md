@@ -1,5 +1,15 @@
 # Socialbook
 
+**It is an Clone of FaceBook that I develop FrontEnd into Angular .**
+
+**Functionality:**
+**1.Double click on profile Image that Toggle user from Offline Mode or Online Mode & Generate Alert User is Oflline or Online
+  2.Single click on Profile Image that Setting Menu
+  3.Dark or Light Mode Button in Setting Menu**
+
+
+
+  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
 
 ## Development server
